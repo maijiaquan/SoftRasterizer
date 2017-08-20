@@ -265,7 +265,6 @@ void openglwindow::changeAttribute(){
 	//cout<<g_camera_altered.rotateX<<endl;
 	//cout<<g_camera_altered.rotateY<<endl;
 
-
 	g_camera_altered.move_x = camera_move_x;
 	g_camera_altered.move_y = camera_move_y;
 	g_camera_altered.move_z = camera_move_z;

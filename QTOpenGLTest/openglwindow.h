@@ -46,7 +46,6 @@ public:
 	//绘制直线
 	void drawLine(GLfloat x1, GLfloat y1, GLfloat x2, GLfloat y2);
 
-
 	//绘制线框模型
 	void drawWireframeModel(Model & model);
 
