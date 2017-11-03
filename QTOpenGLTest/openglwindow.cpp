@@ -469,6 +469,7 @@ void openglwindow::drawCube(){
 		v *= save_matrix;
 	}
 
+
 	//重置世界坐标
 	g_camera.world_position_.x_ = 0;	
 	g_camera.world_position_.y_ = 0;
