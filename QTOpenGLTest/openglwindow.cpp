@@ -360,13 +360,13 @@ void openglwindow::paintGL(){
 
 //初始化立方体
 void openglwindow::initCube(){
-	//g_objdata.setPath("D:\\cube.obj");
+	g_objdata.setPath("D:\\cube.obj");
 	//g_objdata.setPath("D:\\PolyDataWriter.obj");
 
 	//g_objdata.setPath("D:\\bunny.obj");
 	//g_objdata.setPath("F:\\source_code\\obj\\cube2.obj");
 	//g_objdata.setPath("F:\\source_code\\obj\\wateringcan.obj");
-	g_objdata.setPath("F:\\source_code\\obj\\hello.obj");
+	//g_objdata.setPath("F:\\source_code\\obj\\hello.obj");
 
 	//dodecahedron.obj
 
